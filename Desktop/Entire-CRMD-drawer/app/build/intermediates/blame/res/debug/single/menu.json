@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/res/merged/debug/menu/activity_drawer_drawer.xml",
+        "source": "/home/ayush/Desktop/Entire-CRMD-drawer/app/src/main/res/menu/activity_drawer_drawer.xml"
+    },
+    {
+        "merged": "/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/ayush/Desktop/Entire-CRMD-drawer/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/ayush/Desktop/Entire-CRMD-drawer/app/build/intermediates/res/merged/debug/menu/drawer.xml",
+        "source": "/home/ayush/Desktop/Entire-CRMD-drawer/app/src/main/res/menu/drawer.xml"
+    }
+]

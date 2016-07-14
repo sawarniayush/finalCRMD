@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#0D47A1</color>
+    <color name="colorAccent">#B71C1C</color>
+    <color name="buttonColor">#9FA8DA</color>
+    <color name="textColor">#E0E0E0</color>
+    <color name="redbright">#424242</color>
+    <color name="reddull">#0D47A1</color>
+    <color name="background">#1ef9f2d6</color>
+    <color name="box_fill">#9E9E9E</color>
+    <color name="pressed">#ffff0000</color>
+    <color name="focussed">#ff0000ff</color>
+    <color name="bluish">#0D47A1</color>
+    <color name="default_color">#ff000000</color>
+</resources>
